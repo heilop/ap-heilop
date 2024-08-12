@@ -8,5 +8,3 @@ const getPostsByTag = (posts: CollectionEntry<"blog">[], tag: string) =>
   );
 
 export default getPostsByTag;
-
-// Demo
